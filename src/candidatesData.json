@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Emily Johnson",
+    "work": "Software Developer",
+    "place": "San Francisco, USA"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1504593811423-6dd665756598?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Maxwell Thompson",
+    "work": "FullStack Developer",
+    "place": "London, UK"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Sophia Lee",
+    "work": "Graphic Designer",
+    "place": "Toronto, Canada"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "title": "Oliver Martinez",
+    "work": "React Developer",
+    "place": "Barcelona, Spain"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "title": "Ava Liu",
+    "work": "UI/UX Designer",
+    "place": "New York City, USA"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Liam Nguyen",
+    "work": "Backend Developer",
+    "place": "Sydney, Australia"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1564564295391-7f24f26f568b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+    "title": "Isabella Patel",
+    "work": "Frontend Developer",
+    "place": "Mumbai, India"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1569124589354-615739ae007b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Emma Kim",
+    "work": "Civil Engineer",
+    "place": "Paris, France"
+  }
+]
